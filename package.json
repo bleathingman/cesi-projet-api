@@ -1,0 +1,27 @@
+{
+  "name": "cesi-projet-api",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "serve": "nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bleathingman/cesi-projet-api.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bleathingman/cesi-projet-api/issues"
+  },
+  "homepage": "https://github.com/bleathingman/cesi-projet-api#readme",
+  "dependencies": {
+    "eslint": "^8.32.0",
+    "eslint-config-prettier": "^8.6.0",
+    "eslint-plugin-prettier": "^4.2.1",
+    "express": "^4.18.2",
+    "prettier": "^2.8.3"
+  }
+}
